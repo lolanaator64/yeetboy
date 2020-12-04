@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T07:00:27.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="NtiKYVJj3bOv9CNzQfL-" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T07:03:26.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Qh_IxBXH3HQlLvqRERUQ" version="13.10.8" type="github">
   <diagram id="nNY8WfsLUdl8HgaFd1VL" name="Page-1">
-    <mxGraphModel dx="1303" dy="1882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,13 +70,13 @@
         <mxCell id="WNohDacFWRxzgRTMP_bQ-24" value="&lt;font color=&quot;#ffffff&quot;&gt;Sprint Review&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="610" y="-280" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WNohDacFWRxzgRTMP_bQ-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBFFF5;" vertex="1" parent="1">
+        <mxCell id="WNohDacFWRxzgRTMP_bQ-25" value="The team demonstrates what has been completed to the customer and stakeholders.&lt;br&gt;&lt;br&gt;Opportunity for feedback." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBFFF5;" vertex="1" parent="1">
           <mxGeometry x="610" y="-210" width="120" height="290" as="geometry" />
         </mxCell>
         <mxCell id="WNohDacFWRxzgRTMP_bQ-26" value="&lt;font color=&quot;#ffffff&quot;&gt;Sprint Retrospective&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="790" y="-280" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WNohDacFWRxzgRTMP_bQ-27" value="At the end of the sprint, after the sorint review.&lt;br&gt;&lt;br&gt;Looks at the processes used and reflects on how to improve how the team works." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBFFF5;" vertex="1" parent="1">
+        <mxCell id="WNohDacFWRxzgRTMP_bQ-27" value="At the end of the sprint, after the sprint review.&lt;br&gt;&lt;br&gt;Looks at the processes used and reflects on how to improve how the team works." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBFFF5;" vertex="1" parent="1">
           <mxGeometry x="790" y="-210" width="120" height="290" as="geometry" />
         </mxCell>
         <mxCell id="WNohDacFWRxzgRTMP_bQ-28" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WNohDacFWRxzgRTMP_bQ-8" target="WNohDacFWRxzgRTMP_bQ-20">
