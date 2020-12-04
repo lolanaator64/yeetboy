@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T07:08:35.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Rve15PMgEggrdi4SkA0D" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T07:16:48.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="E9A6Nug0uq7uf3JCYe4q" version="13.10.8" type="github">
   <diagram id="nNY8WfsLUdl8HgaFd1VL" name="Page-1">
     <mxGraphModel dx="1303" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -169,6 +169,12 @@
             <mxPoint x="480" y="860" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WNohDacFWRxzgRTMP_bQ-45" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/shift-free/32/Piece_of_cheese-128.png;fillColor=#FBFFF5;" vertex="1" parent="1">
+          <mxGeometry x="820" y="570" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="WNohDacFWRxzgRTMP_bQ-46" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/coronavirus-covid-19-3/64/Rat-coronavirus-animal-virus-mouse-128.png;fillColor=#FBFFF5;" vertex="1" parent="1">
+          <mxGeometry x="950" y="480" width="226" height="226" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
