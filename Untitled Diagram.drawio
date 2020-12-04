@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T07:04:46.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="HdqsADgAEhqMKvhhAbC6" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T07:08:35.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Rve15PMgEggrdi4SkA0D" version="13.10.8" type="github">
   <diagram id="nNY8WfsLUdl8HgaFd1VL" name="Page-1">
     <mxGraphModel dx="1303" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="WNohDacFWRxzgRTMP_bQ-20" value="&lt;font color=&quot;#ffffff&quot;&gt;Sprint Planning&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="310" y="-280" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WNohDacFWRxzgRTMP_bQ-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBFFF5;" vertex="1" parent="1">
+        <mxCell id="WNohDacFWRxzgRTMP_bQ-21" value="Team review items in the product backlog&lt;br&gt;and move items of a higher value to the sprint backlog.&lt;br&gt;&lt;br&gt;Team creates a sprint goal." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBFFF5;" vertex="1" parent="1">
           <mxGeometry x="310" y="-210" width="120" height="290" as="geometry" />
         </mxCell>
         <mxCell id="WNohDacFWRxzgRTMP_bQ-22" value="&lt;font color=&quot;#ffffff&quot;&gt;Daily Scrum&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
